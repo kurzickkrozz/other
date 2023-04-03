@@ -1,7 +1,8 @@
 # Custom adlist made by TunnelRat
 # This adlist was populated from the results of a GitHub adtest https://d3ward.github.io/toolz/adblock.html
+
 # Current adlists are listed below:
-# 
+
 # Default PiHole	--	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # AdGuard DNS	--	https://v.firebog.net/hosts/AdguardDNS.txt
 # ThreatIntel	--	https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
@@ -10,7 +11,7 @@
 # Known Malware	--	https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # Malicious Hosts	--	https://hosts.tweedge.net/malicious.txt
 
-# #	ADS	# #
+#   ADS
 
 # Amazon
 adtago.s3.amazonaws.com
@@ -43,7 +44,7 @@ static.media.net
 media.net
 adservetx.media.net
 
-# #	ANALYTICS	# #
+#   ANALYTICS
 
 # Google Analytics
 app-measurement.com
@@ -85,7 +86,7 @@ fwtracks.freshmarketer.com
 #Stats WP Plugin
 stats.wp.com
 
-# #	ERR TRACKERS   # #
+#   ERR TRACKERS
 
 # Bugsnag
 notify.bugsnag.com
@@ -97,7 +98,7 @@ app.bugsnag.com
 browser.sentry-cdn.com
 app.getsentry.com
 
-# #	SOCIAL TRACKERS	# #
+#   SOCIAL TRACKERS
 
 # Facebook
 pixel.facebook.com
@@ -134,7 +135,7 @@ widgets.pinterest.com
 # YouTube
 ads.youtube.com
 
-# #	MIX	# #
+#   MIX
 
 # Yahoo
 ads.yahoo.com
@@ -164,7 +165,7 @@ advertising.yandex.ru
 offerwall.yandex.net
 adfox.yandex.ru
 
-# #	OEMS   # #
+#   OEMS
 
 # Realme
 iot-eu-logser.realme.com
