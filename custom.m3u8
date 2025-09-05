@@ -1,0 +1,194 @@
+#EXTM3U
+#EXTINF:24,ABC
+#EXTVLCOPT:network-caching=1000
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:25, breaking news -  weather, traffic and more. Check us out. We're always on" group-title="Local News", CBS News Texas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1c66d6-38f5-11f0-b9f1-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bbd95d-b04d-4797-9450-4b80b2541f1e&userId=&serverSideAds=true
+#EXTINF:32,KSHB 41
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
+#EXTINF:56,KCTV-DT1 [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kctv5news-vizious/playlist.m3u8
+#EXTINF:19,Fox Sports 2 (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:20,Fox News Channel (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
+#EXTINF:290,Fox News Radio (720p)
+#EXTVLCOPT:network-caching=1000
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+#EXTINF:80,Fox Weather (720p)
+#EXTVLCOPT:network-caching=1000
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:22,Antenna TV
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/Antenna_TV/index.m3u8
+#EXTINF:54,CineLife
+#EXTVLCOPT:network-caching=1000
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:24,Disney XD (720p)
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:51,Freeform (720p)
+#EXTVLCOPT:network-caching=1000
+https://tvpass.org/live/FreeformEast/hd
+#EXTINF:60,InfoWars The Alex Jones Show (1080p)
+#EXTVLCOPT:network-caching=1000
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+#EXTINF:20,Military History
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:32,Motor Trend
+#EXTVLCOPT:network-caching=1000
+http://104.255.88.155/motortrend/index.m3u8
+#EXTINF:33,Movies!
+#EXTVLCOPT:network-caching=1000
+https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
+#EXTINF:24,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:20,NickToons (720p)
+#EXTVLCOPT:network-caching=1000
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:25,Pluto TV MTV Classic
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:25,Pluto TV Thrillers Spain
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=
+#EXTINF:22,Stories by AMC (1080p)
+#EXTVLCOPT:network-caching=1000
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:16,Story Television
+#EXTVLCOPT:network-caching=1000
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:64,Stryk TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
+#EXTINF:22,Studio Universal Latin America
+#EXTVLCOPT:network-caching=1000
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:20,TeenNick
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
+#EXTINF:60,The Nest
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:0,True Crime Network
+#EXTVLCOPT:network-caching=1000
+https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-truecrimenetwork/index.m3u8
+#EXTINF:24,TV Land
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:31,TVS Quiz Show Network (720p)
+#EXTVLCOPT:network-caching=1000
+https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
+#EXTINF:20,USA Network (720p)
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:22,Mystery
+#EXTVLCOPT:network-caching=1000
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/IONMYSTERY/index.m3u8
+#EXTINF:22,History
+#EXTVLCOPT:network-caching=1000
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:20,Crime + Investigation
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:24,Pop TV
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:21,We TV
+#EXTVLCOPT:network-caching=1000
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
+#EXTINF:22,DTV4
+#EXTVLCOPT:network-caching=1000
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+#EXTINF:25,Service
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1af774-38f5-11f0-8c9b-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9694d983-c9be-4d24-a7cb-1fcb3ee3fc9d&userId=&serverSideAds=true
+#EXTINF:25, there’s always a film you’ll be excited to see whenever you tune in." group-title="Movies" -  Pluto TV Trending Now
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673247127d5da5000817b4d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1afa30-38f5-11f0-8df3-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8229d713-c14b-4f42-8244-2e35e06e9b96&userId=&serverSideAds=true
+#EXTINF:25, it’s being among the stars. Watch the brightest talents throughout Hollywood history in the roles that made them legendary on Pluto TV Icons." group-title="Movies" -  Pluto TV Icons
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b585f84ea480000838e446/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1afb34-38f5-11f0-9a16-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=96573bd4-74c9-40b8-a686-25b01ba034e0&userId=&serverSideAds=true
+#EXTINF:25, but you won’t be able to look away." group-title="Comedy" -  Tosh.0
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b0de0-38f5-11f0-8836-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c437c6e5-c346-43cc-99f7-d5579bd88d0f&userId=&serverSideAds=true
+#EXTINF:25, learn to paint channel starring Bob Ross" group-title="Classic TV" -  The Bob Ross Channel
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f36d726234ce10007784f2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b1812-38f5-11f0-9725-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b086ed28-3064-41cf-88e8-cbb8db25da05&userId=&serverSideAds=true
+#EXTINF:25, and his trusty accomplice Tonto -  fight for justice in the wild west." group-title="Westerns", The Lone Ranger
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a6dafb7bdc8d0008473c85/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b1a9c-38f5-11f0-82c7-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2ed9e42-2a91-464e-936e-a1feb50bc477&userId=&serverSideAds=true
+#EXTINF:25, the bad -  and the ugly!" group-title="Westerns", Wild West TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6661f88f3d173b000845958c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b1af6-38f5-11f0-b8de-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6d805e81-07a0-4097-b227-8d87aa559b90&userId=&serverSideAds=true
+#EXTINF:25, Partner! Pluto TV is bringing you back to the original frontier. Relive the duels -  the train robberies, and the stetsons that defined the golden age of cinema. Drop in at high noon… or any time" group-title="Westerns", Classic Movie Westerns
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61f33318210549000806a530/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b1b6e-38f5-11f0-b4e7-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=673edcbe-38b1-41c4-9658-7170bfb50068&userId=&serverSideAds=true
+#EXTINF:24, your true crime destination -  covering crime all the time." group-title="True Crime", Crime 360 by A&E
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6000a5a9e767980007b497ca/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b4742-38f5-11f0-87a6-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e4c59dd9-8d2a-413f-8030-7b080e2c0a0a&userId=&serverSideAds=true
+#EXTINF:25, the groundbreaking series follows real officers on patrol as they conduct high-speed pursuits -  wild arrests and dangerous police business." group-title="Reality", COPS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b47a6-38f5-11f0-a182-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=244eaf36-0216-4279-ab35-3e562f34bfbb&userId=&serverSideAds=true
+#EXTINF:25, tough-love approach to transform struggling bars into thriving money-makers. If it’s on the rocks -  it’s his business." group-title="Reality", Bar Rescue
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60a3d889a5b3690008dc7fe8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b4990-38f5-11f0-bdef-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a75aaec-a2d6-418c-91eb-d041628eef0c&userId=&serverSideAds=true
+#EXTINF:25, to buying an old banger for an ill-fated road trip with your mates -  Top Gear irreverently celebrates everything that’s brilliant about cars." group-title="Reality", Top Gear
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/636adc255bcf470007d6e0e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b5386-38f5-11f0-9948-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=590e4d02-ee13-48bc-b303-a3ef75e898ab&userId=&serverSideAds=true
+#EXTINF:0,Service
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b5b60-38f5-11f0-9774-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=705d5f93-f444-4b28-ab34-76ff82d482b7&userId=&serverSideAds=true
+#EXTINF:25, from psychological thrillers to seductive love stories." group-title="Entertainment" -  Movie Favorites By Lifetime
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b5fac-38f5-11f0-bed8-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=404e0677-855b-427c-b1ba-ba2b65792293&userId=&serverSideAds=true
+#EXTINF:25, series & specials from the Hallmark library filled with uplifting and inspiring stories for everyone." group-title="Entertainment" -  Hallmark Movies & More
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b6006-38f5-11f0-8263-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5609c59e-e2e9-482c-b951-7d96921968a5&userId=&serverSideAds=true
+#EXTINF:25, two families battle it out by answering survey questions for a chance to win cash and prizes." group-title="Game Shows" -  Family Feud
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/672e4d915534bb0008c50168/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b6466-38f5-11f0-a878-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=90f21f82-2a1a-47fe-931e-d52f7c2135fc&userId=&serverSideAds=true
+#EXTINF:25, Family Feud Classic
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643f03b9d8436e0008edf021/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b64ca-38f5-11f0-8737-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=45b1dfa7-56c4-437d-af8c-9fac566329a6&userId=&serverSideAds=true
+#EXTINF:25, a channel of fast -  fun game show programming with something for everyone.  From trivia to word puzzles, physical games to outrageous competitions, we offer round-the-clock beat-the-clock entertainment." group-title="Game Shows", Game Show Central
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b66fa-38f5-11f0-bb3b-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8db0e6c1-aa55-4b10-891f-703aafba2fdb&userId=&serverSideAds=true
+#EXTINF:25, fantasy intel and betting advice. Stream it live every day -  wherever you are." group-title="Sports", CBS Sports HQ
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b78ca-38f5-11f0-837d-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dd2f60b6-abf7-4b35-9bff-a5b500074b45&userId=&serverSideAds=true
+#EXTINF:25, live events and highlights. Watch Dan Patrick -  Mike Florio, Dan Le Batard, Matthew Berry and Chris Simms cover the biggest stories on and off the field." group-title="Sports", NBC Sports NOW
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b79a6-38f5-11f0-a71f-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bcee7d3c-a215-4d9a-93c0-0b0fd1bd5721&userId=&serverSideAds=true
+#EXTINF:25, unlimited access to NFL content on NFL Channel for FREE. The NFL Channel features Live Game Day Coverage -  NFL Game Replays, Original Shows, Emmy-Award winning series and more!" group-title="Sports", NFL Channel
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b7adc-38f5-11f0-b541-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0588c38b-9b43-4ff6-8bd7-f61e4d52fa7d&userId=&serverSideAds=true
+#EXTINF:0, now available on Pluto TV. Catch up on the latest news -  behind-the-scenes stories, and highlights from around the league." group-title="Sports", The NBA Channel
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6792c30abc03978b9b8bb832/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b7b68-38f5-11f0-a1d6-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e3f4f003-2484-43ea-9887-062d774743ab&userId=&serverSideAds=true
+#EXTINF:25, highlights and shows -  including historic World Series, All-Star Games and milestone events from the national pastime." group-title="Sports", MLB
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b7bc2-38f5-11f0-8c0a-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef729795-8073-42be-8bd0-e47677841fe1&userId=&serverSideAds=true
+#EXTINF:25, series and movies on the weaponry and technology behind humanity's biggest conflicts. This is the channel for all those who have served -  and everyone who honors them." group-title="History + Science", Pluto TV Military
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b9152-38f5-11f0-a53a-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a33db792-4967-46df-891e-7533496c81f5&userId=&serverSideAds=true
+#EXTINF:25, television's most innovative series." group-title="History + Science" -  Modern Marvels Presented by HISTORY
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775d29dfed030008cb3db2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b92ba-38f5-11f0-b98b-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69eb70fc-3721-4a57-b571-1a7bdd6a6eb5&userId=&serverSideAds=true
+#EXTINF:25, “This Old House” has brought the craft of home repair and renovation to life. Now -  the original home improvement show comes to you 24 hours a day, so put on your tool belt and grab a hammer, because it’s time to get to work!" group-title="Home + Food", This Old House
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b98aa-38f5-11f0-8557-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=48ea5df0-3d0b-4721-ba23-d9f04ecdb893&userId=&serverSideAds=true
+#EXTINF:25, this free streaming channel is all about the real estate -  renovations, and transformations that you’ll love to binge." group-title="Home + Food", Homeful
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66df8aa7abec540008ca8cb6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1b99ea-38f5-11f0-b04d-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b44dccaa-71b4-4aae-a9fb-547d86060d52&userId=&serverSideAds=true
+#EXTINF:25, iCarly -  and more! It’s all on Nick Pluto TV." group-title="Kids", Nickelodeon Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1ba87c-38f5-11f0-a1fb-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0bde2bb3-9a74-4a2c-8a69-f6e80efa0c97&userId=&serverSideAds=true
+#EXTINF:25, Hey Arnold! Kenan & Kel and more. It’s all your favorite Nick 90s shows that made The Splat that defined a generation - now you can relive the fun with your own family every day on Pluto TV!" group-title="Kids", 90's Kids
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1ba930-38f5-11f0-843f-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5c96c82e-68ca-4f58-84bf-82b46d520777&userId=&serverSideAds=true
+#EXTINF:25, this is the channel for you. Relive your childhood with favorites including Double Dare -  Zoey 101, Clarissa Explains It All, Kenan & Kel, and much more!" group-title="Kids", 90s Kids TV 2
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c77ed3fdde00080eb3a8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1ba9a8-38f5-11f0-a1bd-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d12e82c3-194d-4a89-a578-a17d7e7ff04a&userId=&serverSideAds=true
+#EXTINF:0, iCarly is back and bigger than ever streaming 24/7 on Pluto TV. Join Carly -  Sam, Freddie, Gibby and Spencer in the series that defined the early oughts for a generation of fans." group-title="Kids", iCarly TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6450209d939a5900084dba1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1baa0c-38f5-11f0-acdd-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e68a7b06-a011-4640-882b-2c35f58a0a47&userId=&serverSideAds=true
+#EXTINF:25, the Teenage Mutant Ninja Turtles are here and ready to take on alien and mutant enemies alike. Grab some pizza and get ready for maximum Turtle Power! This is TOTALLY TURTLES on Pluto TV!" group-title="Kids" -  TOTALLY TURTLES
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1baa66-38f5-11f0-acf9-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fdd8a934-7cfd-429d-89b4-baf0c3ff30c7&userId=&serverSideAds=true
+#EXTINF:25, meet powerful Pokémon -  and aim for Ash’s ultimate goal: becoming a Pokémon Master!" group-title="Kids", Pokémon
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1baac0-38f5-11f0-984e-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcf8e7b2-6e1c-4b4b-8bdf-f29e9b25234d&userId=&serverSideAds=true
+#EXTINF:0, where you can watch all kinds of anime from your favorite classics to today’s biggest hits. Catch up on your favorite series or jump into a new adventure with Anime All Day." group-title="Anime" -  Anime All Day
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1bb2cc-38f5-11f0-8b38-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=abf91b6a-f8e9-467d-a2e2-a253f6d26e8e&userId=&serverSideAds=true
+#EXTINF:25, enjoy stories about the power of friendship and the most hilarious -  zany, and irreverent comedies." group-title="Anime", Pluto TV Anime Comedy
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67ed8c15c84f951267dbebc2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1bb330-38f5-11f0-ab05-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e5d36e1-1009-4d63-b21f-d55d01d9cf58&userId=&serverSideAds=true
+#EXTINF:25, fan favorite franchise hits -  or cult darlings, Pluto TV Anime Movies has got you covered." group-title="Anime", Pluto TV Anime Movies
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67ed8f7e443f0671bc2b2368/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1bb3c6-38f5-11f0-9046-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e64cb09-9efa-449d-ad7e-e23af7cb8cc3&userId=&serverSideAds=true
+#EXTINF:25, beloved fan favorites -  and more!" group-title="Anime", Crunchyroll
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1bb43e-38f5-11f0-a75d-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=844125b2-a367-4c06-92c3-9448838c7bdb&userId=&serverSideAds=true
+#EXTINF:25, Sailor Moon. Watch Usagi and her team of Sailor Guardians fight to protect the universe from evil every day on Pluto TV!" group-title="Anime" -  Sailor Moon
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/637e55347427a40007fac703/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1bb510-38f5-11f0-bfb0-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cf79fddc-abec-4e16-a5b5-9849a65a9aa3&userId=&serverSideAds=true
+#EXTINF:25, One Piece
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1bb56a-38f5-11f0-9bf5-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=573d3816-6f06-485b-b2de-5151ac8418c8&userId=&serverSideAds=true
+#EXTINF:25, a fearsome Nine-tailed Fox terrorized the village before it was subdued and its spirit sealed within the body of a baby boy - Naruto Uzumaki!" group-title="Anime", Naruto
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1bb5c4-38f5-11f0-b52d-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e4442a52-f366-4e75-9e32-24e5680f60e2&userId=&serverSideAds=true
+#EXTINF:25, an average ninth grader -  gets pulled into an ancient well by a demon, bringing her 500 years in the past to a feudal era." group-title="Anime", Inuyasha
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67c63b90a20c0399a381b816/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1bb664-38f5-11f0-ba1b-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4005bbf-4d64-40c3-a327-8179c980b6a7&userId=&serverSideAds=true
+#EXTINF:25,Service
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1bb6c8-38f5-11f0-b33a-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c44ec4cf-b49d-453a-999a-0e3b6c27d9f9&userId=&serverSideAds=true
+#EXTINF:25, where you can watch all kinds of anime from your favorite classics to today’s biggest hits. Catch up on your favorite series or jump into a new adventure with Anime All Day!" group-title="Gaming + Anime" -  Anime All Day
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62a2e8d8a1c8650007e95bac/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef1c5ff6-38f5-11f0-a166-a8553cc1d364&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fef08975-b3c5-4614-97ca-dce42e6dfd9b&userId=&serverSideAds=true
